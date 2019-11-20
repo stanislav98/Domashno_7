@@ -1,0 +1,10 @@
+C:\Users\Nitro\source\repos\TestQuestion\TestQuestion\bin\Debug\TestQuestion.exe.config
+C:\Users\Nitro\source\repos\TestQuestion\TestQuestion\bin\Debug\TestQuestion.exe
+C:\Users\Nitro\source\repos\TestQuestion\TestQuestion\bin\Debug\TestQuestion.pdb
+C:\Users\Nitro\source\repos\TestQuestion\TestQuestion\obj\Debug\TestQuestion.csprojAssemblyReference.cache
+C:\Users\Nitro\source\repos\TestQuestion\TestQuestion\obj\Debug\TestQuestion.Form1.resources
+C:\Users\Nitro\source\repos\TestQuestion\TestQuestion\obj\Debug\TestQuestion.Properties.Resources.resources
+C:\Users\Nitro\source\repos\TestQuestion\TestQuestion\obj\Debug\TestQuestion.csproj.GenerateResource.cache
+C:\Users\Nitro\source\repos\TestQuestion\TestQuestion\obj\Debug\TestQuestion.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\source\repos\TestQuestion\TestQuestion\obj\Debug\TestQuestion.exe
+C:\Users\Nitro\source\repos\TestQuestion\TestQuestion\obj\Debug\TestQuestion.pdb

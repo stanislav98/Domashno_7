@@ -1,0 +1,10 @@
+C:\Users\Nitro\source\repos\Calnedar\Calnedar\bin\Debug\Calnedar.exe.config
+C:\Users\Nitro\source\repos\Calnedar\Calnedar\bin\Debug\Calnedar.exe
+C:\Users\Nitro\source\repos\Calnedar\Calnedar\bin\Debug\Calnedar.pdb
+C:\Users\Nitro\source\repos\Calnedar\Calnedar\obj\Debug\Calnedar.csprojAssemblyReference.cache
+C:\Users\Nitro\source\repos\Calnedar\Calnedar\obj\Debug\Calnedar.Form1.resources
+C:\Users\Nitro\source\repos\Calnedar\Calnedar\obj\Debug\Calnedar.Properties.Resources.resources
+C:\Users\Nitro\source\repos\Calnedar\Calnedar\obj\Debug\Calnedar.csproj.GenerateResource.cache
+C:\Users\Nitro\source\repos\Calnedar\Calnedar\obj\Debug\Calnedar.csproj.CoreCompileInputs.cache
+C:\Users\Nitro\source\repos\Calnedar\Calnedar\obj\Debug\Calnedar.exe
+C:\Users\Nitro\source\repos\Calnedar\Calnedar\obj\Debug\Calnedar.pdb
